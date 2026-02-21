@@ -1,1 +1,3 @@
-# como-comprar-aave-lend
+[**Cómo comprar Aave (LEND/AVAX)**](https://topcryptoguide.com/como-comprar-aave-lend/)
+
+Este artículo explica **cómo comprar Aave (anteriormente LEND, ahora migrado al token AAVE)**, el token de gobernanza del popular protocolo DeFi Aave, que permite a los usuarios **prestar y pedir prestado cripto sin intermediarios**. Para adquirir AAVE normalmente debes **abrir una cuenta en un exchange confiable donde esté listado** (como Binance, Coinbase o Kraken), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra en el mercado spot. Algunos exchanges también permiten **comprar AAVE directamente con tarjeta de crédito/débito**. Tras la compra, se recomienda **mover los tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
